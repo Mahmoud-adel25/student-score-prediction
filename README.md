@@ -2,6 +2,20 @@
 
 A comprehensive machine learning application that predicts student exam scores based on various performance factors. Built with Streamlit for an interactive user experience.
 
+## 🌐 **Live Demo**
+
+**🎯 Try the app live:** [https://mahmoud-adel25-student-score-prediction-deplyment-appapp-aor9u1.streamlit.app/](https://mahmoud-adel25-student-score-prediction-deplyment-appapp-aor9u1.streamlit.app/)
+
+**Features you can test:**
+- 📊 Interactive data exploration and visualizations
+- 📈 Train Linear and Polynomial regression models
+- 🧮 Real-time student score predictions with grade estimation
+- 🎯 Feature importance analysis and model evaluation
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28.1-red.svg)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.2-orange.svg)
+![Pandas](https://img.shields.io/badge/Pandas-2.1.3-green.svg)
 
 ## 📋 Project Overview
 
@@ -27,6 +41,30 @@ This application provides an interactive interface for:
 - ✅ Advanced model evaluation metrics
 - ✅ Interactive feature selection
 - ✅ Real-time prediction interface
+
+## 🚀 Quick Start
+
+### Local Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/student-score-prediction.git
+   cd student-score-prediction
+   ```
+
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the application**
+   ```bash
+   cd Deplyment_App
+   streamlit run app.py
+   ```
+
+4. **Open your browser**
+   Navigate to: http://localhost:8501
 
 ## 📊 Application Features
 
@@ -147,6 +185,8 @@ Student Score Prediction/
 3. Connect your GitHub account
 4. Select this repository
 5. Deploy!
+
+**✅ Successfully Deployed:** [https://mahmoud-adel25-student-score-prediction-deplyment-appapp-aor9u1.streamlit.app/](https://mahmoud-adel25-student-score-prediction-deplyment-appapp-aor9u1.streamlit.app/)
 
 ### Heroku
 1. Create a `Procfile`:
