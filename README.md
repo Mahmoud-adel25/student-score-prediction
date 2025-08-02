@@ -28,30 +28,6 @@ This application provides an interactive interface for:
 - ✅ Interactive feature selection
 - ✅ Real-time prediction interface
 
-## 🚀 Quick Start
-
-### Local Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/student-score-prediction.git
-   cd student-score-prediction
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the application**
-   ```bash
-   cd Deplyment_App
-   streamlit run app.py
-   ```
-
-4. **Open your browser**
-   Navigate to: http://localhost:8501
-
 ## 📊 Application Features
 
 ### Tab 1: 📊 EDA & Visualizations
